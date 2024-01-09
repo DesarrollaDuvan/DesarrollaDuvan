@@ -21,9 +21,8 @@ Soy un [tu profesión o área de estudio] apasionado por [tus intereses]. Actual
 - Contribuí a [Proyecto de código abierto 2](enlace al repositorio)
 
 ## Encuéntrame en Internet
-- [LinkedIn]([enlace a tu perfil de LinkedIn](https://www.linkedin.com/in/duvan-pe%C3%B1uela-06851823a/))
-- [Twitter](enlace a tu perfil de Twitter)
-- [Sitio web personal](enlace a tu sitio web)
-
+- [LinkedIn](https://www.linkedin.com/in/duvan-pe%C3%B1uela-06851823a/))
+  
 ## Contacto
-Puedes contactarme por correo electrónico: [duvan3828@gmail.com]
+Puedes contactarme por correo electrónico: duvan3828@gmail.com
+Puedes escribirme por Whatsapp: 3144922597
