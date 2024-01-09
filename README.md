@@ -17,5 +17,5 @@ Soy un [tu profesión o área de estudio] apasionado por [tus intereses]. Actual
 - [LinkedIn](https://www.linkedin.com/in/duvan-pe%C3%B1uela-06851823a/)
   
 ## Contacto
--Puedes contactarme por correo electrónico: duvan3828@gmail.com
--Puedes escribirme por Whatsapp: 3144922597
+Puedes contactarme por correo electrónico: duvan3828@gmail.com  
+Puedes escribirme por Whatsapp: 3144922597
